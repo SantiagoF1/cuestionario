@@ -1,0 +1,12 @@
+1
+.En tus palabras, ¿Qué es internet?
+internet tiene dos significados naavegador o Wi-Fi
+2
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+El medio de transmisión constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos
+3
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Tras acceder a tu router, busca el apartado que hace referencia al servidor DNS. En nuestro caso, encontramos esta opción en el apartado Advanced Setup con el enunciado DNS. Aquí, accede a las opciones DNS server y encontrarás la dirección IP de los dos servidores DNS de tu proveedor.
+4
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular
+spotify sube la cancion a sun aplicacion y cuando abres la app te sale la cancion 
